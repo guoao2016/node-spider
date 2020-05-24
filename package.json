@@ -1,0 +1,20 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "knex": "^0.21.1",
+    "koa": "^2.12.0",
+    "koa-router": "^8.0.8",
+    "mysql": "^2.18.1",
+    "superagent": "^5.2.2",
+    "superagent-charset": "^1.2.0"
+  }
+}
